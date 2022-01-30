@@ -1,7 +1,7 @@
 img = "";
 
 function preload() {
-    img=loadImage("Desk.jpg");
+    img=loadImage("Couch.jpg");
 }
 
 function setup() {

@@ -1,7 +1,8 @@
 img = "";
+status ="";
 
 function preload() {
-    img=loadImage("Desk.jpg");
+    img=loadImage("Chair.jpeg");
 }
 
 function setup() {
@@ -23,7 +24,6 @@ if (error) {
 }
 console.log(results);
 }
-
 
 function draw() {
     image(img,0,0,640,420);

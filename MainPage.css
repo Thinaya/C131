@@ -1,6 +1,3 @@
-body
-{
-    text-align:center;
-    background-position: cover;
-    font-size:30px;
+body{
+    background:linear-gradient(lightsalmon 0%, lightcoral 50%, violet 100%);
 }
